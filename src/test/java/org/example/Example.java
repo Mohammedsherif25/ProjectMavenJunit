@@ -37,4 +37,10 @@ public class Example {
 	public void tc1() {
 		System.out.println("TC 1");
 	}
+	private void div() {
+		System.out.println("division");
+	}
+	private void multiple() {
+		System.out.println("Multiple");
+	}
 }
